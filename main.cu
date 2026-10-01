@@ -1,4 +1,4 @@
-i#include <iostream>
+#include <iostream>
 #include <cuda_runtime.h>
 
 // This function runs on the GPU (Device)
